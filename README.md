@@ -1,3 +1,5 @@
 # mytravelstories
-HTML Debrief Activity for Generations Australia Junior Web Development Program.
-Made the websites look as close as possible to the image provided.
+HTML Debrief Activity for Generations Australia Junior Web Developer Program.
+Made the website look as close as possible to the images provided.
+
+Live version: https://eulofia.github.io/mytravelstories/
